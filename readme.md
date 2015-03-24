@@ -1,8 +1,9 @@
-All the code inside the measures and meters of this calendar config belong to http://moshiab.deviantart.com
-creator of the Sphnx rainmeter suite.
+Made to compliment the [Flat & Blurry Rainmeter Skin](http://satyajit00.deviantart.com/art/Flat-Blurry-v1-0-491371330)
 
-Structure of code borrowed from FlaTTs @DesignByMichaels.
+*All the code inside the measures and meters of this calendar config belong to http://moshiab.deviantart.com
+creator of the Sphnx rainmeter suite.*
 
+*Structure of code borrowed from FlaTTs @DesignByMichaels.*
 ======
 Usage:
 ======
@@ -11,3 +12,6 @@ Usage:
 * Open the setttings file in @Resources\Settings\Calendar of the skin folder and put it in Gcal1=""
 
 * Set to fetch every 5 minutes, width and number of events are hardcoded, but should be simple to set your own. (Supports up to 8 events at once.)
+
+====
+**Demo**: http://i.imgur.com/O57qPxk.png
