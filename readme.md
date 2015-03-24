@@ -4,6 +4,7 @@ Made to compliment the [Flat & Blurry Rainmeter Skin](http://satyajit00.devianta
 creator of the Sphnx rainmeter suite.*
 
 *Structure of code borrowed from FlaTTs @DesignByMichaels.*
+
 ======
 Usage:
 ======
