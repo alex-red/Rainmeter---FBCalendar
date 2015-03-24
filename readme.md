@@ -1,7 +1,6 @@
 All the code inside the measures and meters of this calendar config belong to http://moshiab.deviantart.com
 creator of the Sphnx rainmeter suite
 Structure of code borrowed from FlaTTs @DesignByMichaels
-=======================================================
 
 ======
 Usage:
